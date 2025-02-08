@@ -2,7 +2,7 @@
 
 - [Description]()
 - [Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8hU5NF4PDCaOrDJQn1bOEHvxKzQWJGM0QG1bifcbE-9VZJqCnvm2WFQemiz_Uj2qUJP9902h0Q_NB/pubhtml)
-- [Guidelines]()
+- [Guidelines](Guidelines.pdf)
 - [Prof. Bahrak's Youtube Channel](https://www.youtube.com/@BahrakCourses)
 
 # Course Schedule
