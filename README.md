@@ -1,7 +1,7 @@
 # Course Material
 
 - [Description]()
-- [Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8hU5NF4PDCaOrDJQn1bOEHvxKzQWJGM0QG1bifcbE-9VZJqCnvm2WFQemiz_Uj2qUJP9902h0Q_NB/pubhtml)
+- [Calendar](https://docs.google.com/spreadsheets/d/1adlurjjRLzJFx8zvyfZCqV423SqOy4Vq6aRSlyo1oc8/edit?usp=sharing)
 - [Guidelines](Guidelines.pdf)
 - [Prof. Bahrak's Youtube Channel](https://www.youtube.com/@BahrakCourses)
 
